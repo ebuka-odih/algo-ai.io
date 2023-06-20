@@ -30,7 +30,7 @@ class CryptoDeposit extends Mailable
     public function build()
     {
         return $this->markdown('emails.crypto-deposit')
-            ->subject('Algo-ai')
+            ->subject('Algo-AI')
             ->from('noreply@algo-ai.io', "Algo-ai");
     }
 }

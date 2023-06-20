@@ -30,6 +30,6 @@ class ApproveDeposit extends Mailable
     public function build()
     {
         return $this->markdown('emails.approveDeposit')
-            ->subject('Algo-ai');
+            ->subject('Algo-AI');
     }
 }
