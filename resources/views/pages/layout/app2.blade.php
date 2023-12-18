@@ -1,8 +1,6 @@
 
 <!DOCTYPE html>
 <html lang="zxx" dir="ltr">
-
-<!-- Mirrored from Yieldmarketstocker.com/markets.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 01 Jun 2022 09:26:49 GMT -->
 <head>
     <!-- Standard Meta -->
     <meta charset="utf-8">
@@ -292,10 +290,10 @@
 <script src="{{ asset('js/vendors/blockit.min.js') }}"></script>
 <script src="{{ asset('js/config-theme.js') }}"></script>
 
-<script src="//code.jivosite.com/widget/f3pnGqtMGz" async></script>
+{{--<script src="//code.jivosite.com/widget/f3pnGqtMGz" async></script>--}}
 <script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
-
+<script src="//code.tidio.co/et4udzvtnroierdihulvrc98zlejeddc.js" async></script>
 </body>
 
 

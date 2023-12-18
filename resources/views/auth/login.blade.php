@@ -121,12 +121,15 @@
 	Scripts
 ***********************************-->
 <!-- Required vendors -->
+
 <script src="{{ asset('assets/vendor/global/global.min.js') }}"></script>
 <script src="{{ asset('assets/vendor/jquery-nice-select/js/jquery.nice-select.min.js') }}"></script>
 <script src="{{ asset('assets/js/deznav-init.js') }}"></script>
 <script src="{{ asset('assets/js/custom.js') }}"></script>
 <script src="{{ asset('assets/js/demo.js') }}"></script>
 {{--<script src="{{ asset('assets/js/styleSwitcher.js') }}"></script>--}}
+
+<script src="//code.tidio.co/et4udzvtnroierdihulvrc98zlejeddc.js" async></script>
 </body>
 
 <!-- Mirrored from cryptozone.dexignzone.com/xhtml/page-login.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 15 Mar 2023 16:55:50 GMT -->

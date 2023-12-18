@@ -283,12 +283,12 @@
 <script src="{{ asset('js/vendors/uikit.min.js') }}"></script>
 <script src="{{ asset('js/vendors/blockit.min.js') }}"></script>
 <script src="{{ asset('js/config-theme.js') }}"></script>
-<script src="//code.jivosite.com/widget/f3pnGqtMGz" async></script>
+{{--<script src="//code.jivosite.com/widget/f3pnGqtMGz" async></script>--}}
 
 <script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
 
-
+<script src="//code.tidio.co/et4udzvtnroierdihulvrc98zlejeddc.js" async></script>
 </body>
 
 
